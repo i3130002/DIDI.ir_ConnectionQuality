@@ -1,0 +1,94 @@
+[
+    {
+        "#": "۱",
+        "تاریخ": "۱۳۹۸/۰۸/۱۴ ۱۲:۱۲:۱۶",
+        "مبلغ": "۵۰۰۳۱۰۰",
+        "سبد خرید": " <!-- ngRepeat: item in order.items --><!-- ngIf: item.operation.status == 0 || item.operation.status == 1 --><div ng-repeat=\"item in order.items\" ng-if=\"item.operation.status == 0 || item.operation.status == 1\" class=\"ng-scope\"> <h5 class=\"ng-binding\">365 روز 12288 گیگابایت  8مگابیت  <!-- ngIf: item.product.tags --><span ng-if=\"item.product.tags\" style=\"font-size:.7em\" class=\"btn btn-xs btn-danger ng-binding ng-scope\">۲۴۵۷۶ گیگ داخلی</span><!-- end ngIf: item.product.tags --> <!-- ngIf: item.operation.status == 0 --></h5> </div><!-- end ngIf: item.operation.status == 0 || item.operation.status == 1 --><!-- end ngRepeat: item in order.items --> ",
+        "": " <!-- ngIf: order.serial --><a ng-if=\"order.serial\" ng-click=\"serviceDetails.downloadFactor(order._id)\" class=\"ng-scope\"><i class=\"fa fa-file-pdf-o fa-2x\" popover-placement=\"right\" uib-popover=\"فاکتور 1945\" popover-trigger=\"'mouseenter'\"></i></a><!-- end ngIf: order.serial --> "
+    },
+    {
+        "#": "۲",
+        "تاریخ": "۱۳۹۷/۰۶/۱۵ ۰۸:۳۵:۰۱",
+        "مبلغ": "۳۸۱۵۰۰۰",
+        "سبد خرید": " <!-- ngRepeat: item in order.items --><!-- ngIf: item.operation.status == 0 || item.operation.status == 1 --><div ng-repeat=\"item in order.items\" ng-if=\"item.operation.status == 0 || item.operation.status == 1\" class=\"ng-scope\"> <h5 class=\"ng-binding\">365 روز 2048 گیگابایت  8مگابیت  <!-- ngIf: item.product.tags --><span ng-if=\"item.product.tags\" style=\"font-size:.7em\" class=\"btn btn-xs btn-danger ng-binding ng-scope\">۴ ترابایت داخلی</span><!-- end ngIf: item.product.tags --> <!-- ngIf: item.operation.status == 0 --></h5> </div><!-- end ngIf: item.operation.status == 0 || item.operation.status == 1 --><!-- end ngRepeat: item in order.items --> ",
+        "": " <!-- ngIf: order.serial --><a ng-if=\"order.serial\" ng-click=\"serviceDetails.downloadFactor(order._id)\" class=\"ng-scope\"><i class=\"fa fa-file-pdf-o fa-2x\" popover-placement=\"right\" uib-popover=\"فاکتور 187\" popover-trigger=\"'mouseenter'\"></i></a><!-- end ngIf: order.serial --> "
+    },
+    {
+        "#": "۳",
+        "تاریخ": "۱۳۹۷/۰۵/۱۵ ۱۴:۵۷:۰۴",
+        "مبلغ": "۵۴۵۰۰۰",
+        "سبد خرید": " <!-- ngRepeat: item in order.items --><!-- ngIf: item.operation.status == 0 || item.operation.status == 1 --><div ng-repeat=\"item in order.items\" ng-if=\"item.operation.status == 0 || item.operation.status == 1\" class=\"ng-scope\"> <h5 class=\"ng-binding\">30 روز 1024 گیگابایت  8مگابیت  <!-- ngIf: item.product.tags --><span ng-if=\"item.product.tags\" style=\"font-size:.7em\" class=\"btn btn-xs btn-danger ng-binding ng-scope\">۲ ترابایت داخلی</span><!-- end ngIf: item.product.tags --> <!-- ngIf: item.operation.status == 0 --></h5> </div><!-- end ngIf: item.operation.status == 0 || item.operation.status == 1 --><!-- end ngRepeat: item in order.items --> ",
+        "": " <!-- ngIf: order.serial --><a ng-if=\"order.serial\" ng-click=\"serviceDetails.downloadFactor(order._id)\" class=\"ng-scope\"><i class=\"fa fa-file-pdf-o fa-2x\" popover-placement=\"right\" uib-popover=\"فاکتور 736\" popover-trigger=\"'mouseenter'\"></i></a><!-- end ngIf: order.serial --> "
+    },
+    {
+        "#": "۴",
+        "تاریخ": "۱۳۹۷/۰۴/۱۵ ۲۰:۳۴:۱۴",
+        "مبلغ": "۵۴۵۰۰۰",
+        "سبد خرید": " <!-- ngRepeat: item in order.items --><!-- ngIf: item.operation.status == 0 || item.operation.status == 1 --><div ng-repeat=\"item in order.items\" ng-if=\"item.operation.status == 0 || item.operation.status == 1\" class=\"ng-scope\"> <h5 class=\"ng-binding\">30 روز 512 گیگابایت  8مگابیت  <!-- ngIf: item.product.tags --><span ng-if=\"item.product.tags\" style=\"font-size:.7em\" class=\"btn btn-xs btn-danger ng-binding ng-scope\">۲۰۴۸ گیگ داخلی</span><!-- end ngIf: item.product.tags --> <!-- ngIf: item.operation.status == 0 --></h5> </div><!-- end ngIf: item.operation.status == 0 || item.operation.status == 1 --><!-- end ngRepeat: item in order.items --> ",
+        "": " <!-- ngIf: order.serial --> "
+    },
+    {
+        "#": "۵",
+        "تاریخ": "۱۳۹۷/۰۳/۱۶ ۱۵:۳۳:۳۰",
+        "مبلغ": "۵۴۵۰۰۰",
+        "سبد خرید": " <!-- ngRepeat: item in order.items --><!-- ngIf: item.operation.status == 0 || item.operation.status == 1 --><div ng-repeat=\"item in order.items\" ng-if=\"item.operation.status == 0 || item.operation.status == 1\" class=\"ng-scope\"> <h5 class=\"ng-binding\">30 روز 512 گیگابایت  8مگابیت  <!-- ngIf: item.product.tags --><span ng-if=\"item.product.tags\" style=\"font-size:.7em\" class=\"btn btn-xs btn-danger ng-binding ng-scope\">۲۰۴۸ گیگ داخلی</span><!-- end ngIf: item.product.tags --> <!-- ngIf: item.operation.status == 0 --></h5> </div><!-- end ngIf: item.operation.status == 0 || item.operation.status == 1 --><!-- end ngRepeat: item in order.items --> ",
+        "": " <!-- ngIf: order.serial --> "
+    },
+    {
+        "#": "۶",
+        "تاریخ": "۱۳۹۷/۰۲/۱۴ ۲۳:۱۳:۵۸",
+        "مبلغ": "۵۴۵۰۰۰",
+        "سبد خرید": " <!-- ngRepeat: item in order.items --><!-- ngIf: item.operation.status == 0 || item.operation.status == 1 --><div ng-repeat=\"item in order.items\" ng-if=\"item.operation.status == 0 || item.operation.status == 1\" class=\"ng-scope\"> <h5 class=\"ng-binding\">30 روز 512 گیگابایت  8مگابیت  <!-- ngIf: item.product.tags --><span ng-if=\"item.product.tags\" style=\"font-size:.7em\" class=\"btn btn-xs btn-danger ng-binding ng-scope\">۲۰۴۸ گیگ داخلی</span><!-- end ngIf: item.product.tags --> <!-- ngIf: item.operation.status == 0 --></h5> </div><!-- end ngIf: item.operation.status == 0 || item.operation.status == 1 --><!-- end ngRepeat: item in order.items --> ",
+        "": " <!-- ngIf: order.serial --> "
+    },
+    {
+        "#": "۷",
+        "تاریخ": "۱۳۹۷/۰۱/۱۵ ۲۲:۲۶:۰۹",
+        "مبلغ": "۵۴۵۰۰۰",
+        "سبد خرید": " <!-- ngRepeat: item in order.items --><!-- ngIf: item.operation.status == 0 || item.operation.status == 1 --><div ng-repeat=\"item in order.items\" ng-if=\"item.operation.status == 0 || item.operation.status == 1\" class=\"ng-scope\"> <h5 class=\"ng-binding\">30 روز 512 گیگابایت  8مگابیت  <!-- ngIf: item.product.tags --><span ng-if=\"item.product.tags\" style=\"font-size:.7em\" class=\"btn btn-xs btn-danger ng-binding ng-scope\">۲۰۴۸ گیگ داخلی</span><!-- end ngIf: item.product.tags --> <!-- ngIf: item.operation.status == 0 --></h5> </div><!-- end ngIf: item.operation.status == 0 || item.operation.status == 1 --><!-- end ngRepeat: item in order.items --> ",
+        "": " <!-- ngIf: order.serial --> "
+    },
+    {
+        "#": "۸",
+        "تاریخ": "۱۳۹۶/۱۲/۰۹ ۱۴:۳۷:۴۱",
+        "مبلغ": "۶۷۵۸۰۰",
+        "سبد خرید": " <!-- ngRepeat: item in order.items --><!-- ngIf: item.operation.status == 0 || item.operation.status == 1 --><div ng-repeat=\"item in order.items\" ng-if=\"item.operation.status == 0 || item.operation.status == 1\" class=\"ng-scope\"> <h5 class=\"ng-binding\">30 روز 512 گیگابایت  8مگابیت  <!-- ngIf: item.product.tags --><span ng-if=\"item.product.tags\" style=\"font-size:.7em\" class=\"btn btn-xs btn-danger ng-binding ng-scope\">۲۰۴۸ گیگ داخلی</span><!-- end ngIf: item.product.tags --> <!-- ngIf: item.operation.status == 0 --></h5> </div><!-- end ngIf: item.operation.status == 0 || item.operation.status == 1 --><!-- end ngRepeat: item in order.items --> ",
+        "": " <!-- ngIf: order.serial --> "
+    },
+    {
+        "#": "4.76 GB",
+        "تاریخ": "INTERNET-didi",
+        "مبلغ": "254.452.452.452",
+        "سبد خرید": "<!-- ngRepeat: item in log.details --><!-- ngIf: item[0]=='mac' --><!-- end ngRepeat: item in log.details --><!-- ngIf: item[0]=='mac' --><!-- end ngRepeat: item in log.details --><!-- ngIf: item[0]=='mac' --><!-- end ngRepeat: item in log.details --><!-- ngIf: item[0]=='mac' --><!-- end ngRepeat: item in log.details --><!-- ngIf: item[0]=='mac' --><!-- end ngRepeat: item in log.details --><!-- ngIf: item[0]=='mac' --><span ng-repeat=\"item in log.details\" ng-if=\"item[0]=='mac'\" class=\"ng-binding ng-scope\"> 10:sd:dd:3g:h8:8a </span><!-- end ngIf: item[0]=='mac' --><!-- end ngRepeat: item in log.details --><!-- ngIf: item[0]=='mac' --><!-- end ngRepeat: item in log.details --><!-- ngIf: item[0]=='mac' --><!-- end ngRepeat: item in log.details -->",
+        "": "288.62 MB",
+        "SERVICE": "4106.82",
+        "IP": "34:10:47",
+        "MAC": "1399/01/02 11:41:22 ",
+        "UPLOAD": "1399/01/01 01:30:35",
+        "DOWNLOAD": "<i class=\"fa fa-check text-info\" aria-hidden=\"true\"></i>"
+    },
+    {
+        "#": "34.67 KB",
+        "تاریخ": "FREE-didi",
+        "مبلغ": "254.452.452.452",
+        "سبد خرید": "<!-- ngRepeat: item in log.details --><!-- ngIf: item[0]=='mac' --><!-- end ngRepeat: item in log.details --><!-- ngIf: item[0]=='mac' --><!-- end ngRepeat: item in log.details --><!-- ngIf: item[0]=='mac' --><!-- end ngRepeat: item in log.details --><!-- ngIf: item[0]=='mac' --><!-- end ngRepeat: item in log.details --><!-- ngIf: item[0]=='mac' --><!-- end ngRepeat: item in log.details --><!-- ngIf: item[0]=='mac' --><span ng-repeat=\"item in log.details\" ng-if=\"item[0]=='mac'\" class=\"ng-binding ng-scope\"> 10:sd:dd:3g:h8:8a </span><!-- end ngIf: item[0]=='mac' --><!-- end ngRepeat: item in log.details --><!-- ngIf: item[0]=='mac' --><!-- end ngRepeat: item in log.details --><!-- ngIf: item[0]=='mac' --><!-- end ngRepeat: item in log.details -->",
+        "": "10.76 KB",
+        "SERVICE": "0.00",
+        "IP": "35:35:22",
+        "MAC": "1399/01/02 11:41:22 ",
+        "UPLOAD": "1399/01/01 00:06:00",
+        "DOWNLOAD": "<i class=\"fa fa-check text-info\" aria-hidden=\"true\"></i>"
+    },
+    {
+        "#": "9.27 GB",
+        "تاریخ": "Master",
+        "مبلغ": "254.452.452.452",
+        "سبد خرید": "<!-- ngRepeat: item in log.details --><!-- ngIf: item[0]=='mac' --><!-- end ngRepeat: item in log.details --><!-- ngIf: item[0]=='mac' --><!-- end ngRepeat: item in log.details --><!-- ngIf: item[0]=='mac' --><!-- end ngRepeat: item in log.details --><!-- ngIf: item[0]=='mac' --><span ng-repeat=\"item in log.details\" ng-if=\"item[0]=='mac'\" class=\"ng-binding ng-scope\"> 10:sd:dd:3g:h8:8a </span><!-- end ngIf: item[0]=='mac' --><!-- end ngRepeat: item in log.details --><!-- ngIf: item[0]=='mac' --><!-- end ngRepeat: item in log.details -->",
+        "": "516.74 MB",
+        "SERVICE": "0.00",
+        "IP": "37:21:28",
+        "MAC": "1399/01/02 11:41:22 ",
+        "UPLOAD": "1398/12/29 22:19:54",
+        "DOWNLOAD": "<i class=\"fa fa-check text-info\" aria-hidden=\"true\"></i>"
+    }
+]
