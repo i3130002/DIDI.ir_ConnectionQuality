@@ -1,6 +1,6 @@
 Have a look at the following article:
 
-
+https://www.linkedin.com/pulse/adsl2-quality-overview-sayed-mahdi-rafatjah
 
 
 
